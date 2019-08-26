@@ -19,4 +19,6 @@ The three datasets below are provided by [likelihood lab](http://www.maxlikeliho
 3. visualization.py and laplotter.py are responsible for data visualization such as Candlestick  charts and loss plots.
 3. gan.py train a DCGANs to learn the data distribution of our dataset and generate new data. 
 
+This is my first deep learning research project and I'm fascinated about the power of GANs and its potential for application in finance. Thanks to likelihood for offering me this opportunity and my teammates Anqi Luo and Yihua Sun.
 
+The Chinese repository is in [GAN-IndexFuture](https://gitee.com/likelihoodlab/GAN-IndexFuture)
